@@ -1,4 +1,3 @@
-ramdon
 
 name1 = "Elias"
 name2 = "Juan"
